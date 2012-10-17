@@ -5,9 +5,9 @@
  * @author Philip Lawrence <philip@misterphilip.com>
  * @link http://misterphilip.com
  * @link http://tagpla.net
- * @link https://github.com/TagPlanet/yii-analytics
+ * @link https://github.com/TagPlanet/yii-analytics-sc
  * @copyright Copyright &copy; 2012 Philip Lawrence
- * @license http://www.apache.org/licenses/LICENSE-2.0
+ * @license http://tagpla.net/licenses/MIT.txt
  * @version 1.0.1
  */
 class TPSiteCatalyst extends CApplicationComponent
