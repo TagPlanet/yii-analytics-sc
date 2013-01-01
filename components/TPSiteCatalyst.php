@@ -79,7 +79,7 @@ class TPSiteCatalyst extends CApplicationComponent
         // TagPla.net copyright... please leave in here!
         $js.= '// Adobe SiteCatalyst Extension provided by TagPla.net' . PHP_EOL;
         $js.= '// https://github.com/TagPlanet/yii-analytics' . PHP_EOL;
-        $js.= '// Copyright 2012, TagPla.net & Philip Lawrence' . PHP_EOL;
+        $js.= '// Copyright 2013, TagPla.net & Philip Lawrence' . PHP_EOL;
         
         
         // Should we auto add in the analytics tag?
